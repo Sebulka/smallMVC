@@ -61,3 +61,7 @@ and replace with your code.
 - sMVC/main/views/
 	add many pages as you like, remember to create functions/methods for them
 	in sMVC/main/controllers/Page.php
+	
+	Big Thank you for:
+	Brad Traversy, Traversy Media<br>
+        https://www.youtube.com/results?search_query=traversy+php+MVC
